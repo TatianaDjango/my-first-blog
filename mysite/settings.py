@@ -25,7 +25,7 @@ SECRET_KEY = 'giek2@d6qf@wp3#jg1w=&fo(z=5w=@_=ln!h50uva_&o4w8d91'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<rheuma>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
